@@ -1,2 +1,7 @@
 # Pixel_sand_sim
-Sand simulation (cellular automata) in julia/makie using lattice canvas
+
+### Code NOT working properly.
+
+- Need to update changes on canvas one at a time.
+- Fix the problem of stacking without falling at single stack.
+
